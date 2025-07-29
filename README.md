@@ -42,7 +42,9 @@ O bot foi desenvolvido com uma estética high tech e está totalmente funcional.
 
 ## 👩‍💻 Autora
 
-Desenvolvido com 💛 por **Célia Medeiros**  
+Desenvolvido com 💛 por 
+<br>
+**Célia Medeiros**  
 [🌐 Meu Portfólio](https://ti-experient.netlify.app/) | [✍️ Meu Blog](https://tiexperient-blog.netlify.app/)
 
 ---
